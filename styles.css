@@ -1,9 +1,13 @@
+*{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
 nav{
     background: peachpuff;
     height: 4rem;
     padding: 10px;
     display: flex;
     justify-content: space-evenly;
+    font-size: 1.2rem;
 }
 a{
     text-decoration: none;
@@ -13,17 +17,17 @@ a:hover{
 }
 body{
     background: powderblue;
+    margin-left: 2rem;
 }
 h1{
-    font-size: larger;
-    letter-spacing: 5px;
+    font-size: 2rem;
+    letter-spacing: 3px;
 }
 ul{
-    padding: 1rem;
-
+ list-style-type: georgian;
 }
 li{
     margin: 1rem 1rem;
     font-size: medium;
-
+    
 }
