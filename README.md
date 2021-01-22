@@ -1,2 +1,4 @@
-# dumbcoder7.github.io
+# adityaraute.github.io
 GitHub Pages Repository
+
+A lot awaits to be built
